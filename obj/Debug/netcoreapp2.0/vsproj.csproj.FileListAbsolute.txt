@@ -1,0 +1,10 @@
+/home/ubuntu/vsproj/bin/Debug/netcoreapp2.0/vsproj.deps.json
+/home/ubuntu/vsproj/bin/Debug/netcoreapp2.0/vsproj.runtimeconfig.json
+/home/ubuntu/vsproj/bin/Debug/netcoreapp2.0/vsproj.runtimeconfig.dev.json
+/home/ubuntu/vsproj/bin/Debug/netcoreapp2.0/vsproj.dll
+/home/ubuntu/vsproj/bin/Debug/netcoreapp2.0/vsproj.pdb
+/home/ubuntu/vsproj/obj/Debug/netcoreapp2.0/vsproj.csproj.CoreCompileInputs.cache
+/home/ubuntu/vsproj/obj/Debug/netcoreapp2.0/vsproj.AssemblyInfoInputs.cache
+/home/ubuntu/vsproj/obj/Debug/netcoreapp2.0/vsproj.AssemblyInfo.cs
+/home/ubuntu/vsproj/obj/Debug/netcoreapp2.0/vsproj.dll
+/home/ubuntu/vsproj/obj/Debug/netcoreapp2.0/vsproj.pdb
